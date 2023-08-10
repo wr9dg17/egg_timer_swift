@@ -13,6 +13,7 @@
 		31DF11FA2A612BD600637034 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31DF11F82A612BD600637034 /* Main.storyboard */; };
 		31DF11FC2A612BD700637034 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31DF11FB2A612BD700637034 /* Assets.xcassets */; };
 		31DF11FF2A612BD700637034 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31DF11FD2A612BD700637034 /* LaunchScreen.storyboard */; };
+		31DF12072A612C9300637034 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31DF12062A612C9300637034 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		31DF11FB2A612BD700637034 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31DF11FE2A612BD700637034 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		31DF12002A612BD700637034 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31DF12062A612C9300637034 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				31DF11FB2A612BD700637034 /* Assets.xcassets */,
 				31DF11FD2A612BD700637034 /* LaunchScreen.storyboard */,
 				31DF12002A612BD700637034 /* Info.plist */,
+				31DF12062A612C9300637034 /* alarm_sound.mp3 */,
 			);
 			path = "egg timer";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				31DF11FF2A612BD700637034 /* LaunchScreen.storyboard in Resources */,
 				31DF11FC2A612BD700637034 /* Assets.xcassets in Resources */,
+				31DF12072A612C9300637034 /* alarm_sound.mp3 in Resources */,
 				31DF11FA2A612BD600637034 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
